@@ -1,0 +1,51 @@
+
+.contenedor{
+    margin: 0px auto;
+    width: 1300px;
+    background-color: orange;
+}
+
+
+a{
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    color: #F58604;
+    
+}
+a:hover{
+    background-color: orange;
+}
+
+.navegacion{
+    background-color: white;
+}
+
+.btn-primary{
+    margin-top: 30px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.informacion{
+    text-align: right;
+
+}
+
+.carta1{
+    display: block;
+}
+
+table{
+
+}
+
+.card{
+    margin-top: 30px;
+}
+
+header{
+    text-align: center;
+}
